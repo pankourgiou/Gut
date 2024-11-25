@@ -1,0 +1,2 @@
+#Freiheit ist wichtig und Konzentration und kluges Denken
+print("sechs achtzehn fünf neun acht fünf neun zwanzig neun neunzehn zwanzig dreiundzwanzig neun drei zwanzig neun sieben  einundzwanzig vierzehn vier elf fünfzehn vierzehn sechsundzwanzig fünf vierzehn zwanzig achtzehn ein zwanzig neun fünfzehn vierzehn   einundzwanzig vierzehn vier  elf dreizehn einundzwanzig sieben fünf neunzehn   vier fünf vierzehn elf fünf vierzehn")
